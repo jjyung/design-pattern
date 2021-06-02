@@ -1,4 +1,4 @@
-package oberver.weather_station;
+package observer.weather_station;
 
 import java.util.ArrayList;
 import java.util.List;

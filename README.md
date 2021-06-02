@@ -9,3 +9,4 @@
 ## Patterns
 
 1. Observer
+2. State machine

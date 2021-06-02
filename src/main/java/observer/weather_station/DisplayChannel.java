@@ -1,4 +1,4 @@
-package oberver.weather_station;
+package observer.weather_station;
 
 public class DisplayChannel implements Observer, DisplayElement {
     private final String channelName;
